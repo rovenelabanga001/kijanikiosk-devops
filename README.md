@@ -1,1 +1,1 @@
-# kijanikiosk Devops journey
+# kijanikiosk Devops Journey
