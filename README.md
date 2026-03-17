@@ -1,1 +1,1 @@
-# kijanikiosk Devops Journey
+# kijanikiosk Devops Journey v0.1
