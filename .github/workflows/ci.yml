@@ -13,5 +13,5 @@ jobs:
         run: |
           test -f README.md
           test -f notes.md
-          test -f RUNBOOK.mdgit 
+          test -f RUNBOOK.md
           echo "Repository validation successfull"
